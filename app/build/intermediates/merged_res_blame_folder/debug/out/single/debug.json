@@ -1,0 +1,898 @@
+[
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_nav_select_bg.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\nav_select_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_user5.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\user5.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_m_test.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\m_test.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_outline_info_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_outline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_star_border_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_star_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_outline_forum_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_outline_forum_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_outline_create_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_outline_create_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_usernoimg0.jpg.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\usernoimg0.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_outline_create_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_outline_create_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_outline_settings_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_outline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_outline_info_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_outline_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_google.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_outline_local_offer_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_outline_local_offer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_outline_local_offer_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_outline_local_offer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_t_tets.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\t_tets.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_outline_label_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_outline_label_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_star_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_star_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_inbox_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_delete_outline_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_delete_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_history_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_history_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_inbox_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_usernoimg01.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\usernoimg01.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_user4.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\user4.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_outline_label_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_outline_label_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_outline_settings_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_outline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_outline_local_offer_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_outline_local_offer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_history_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_history_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_outline_send_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_outline_send_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_mail_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_mail_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_all_inbox_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_all_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_outline_send_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_outline_send_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_user3.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\user3.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_outline_create_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_outline_create_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_c_letter.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable-hdpi\\c_letter.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_inbox_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_adobe.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\adobe.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_pnggoogle.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\pnggoogle.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_outline_local_offer_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_outline_local_offer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_star_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_star_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_inbox_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_inbox_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_outline_account_circle_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_outline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_delete_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_delete_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_delete_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_delete_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_outline_local_offer_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_outline_local_offer_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_outline_account_circle_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_outline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_menu_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_menu_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_menu_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_menu_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_outline_send_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_outline_send_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_mail_outline_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_mail_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_calendar_today_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_c_letter.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable-xhdpi\\c_letter.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_outline_forum_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_outline_forum_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_usernoimg.jpg.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\usernoimg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_outline_drafts_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_outline_drafts_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_inbox_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_all_inbox_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_all_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_snooze_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_snooze_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_person_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_person_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_person_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_person_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_star_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\layout_item_simple_search.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\layout\\item_simple_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_snooze_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_snooze_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_history_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_history_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_outline_settings_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_outline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_inbox_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_outline_drafts_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_outline_drafts_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_outline_info_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_outline_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_star_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_star_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_outline_create_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_outline_create_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_keyboard_voice_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_keyboard_voice_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_keyboard_voice_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_keyboard_voice_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_bg_selected.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\bg_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\xml_searchable.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_outline_info_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_outline_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_person_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_person_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_snooze_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_snooze_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_history_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_history_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_outline_drafts_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_outline_drafts_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_all_inbox_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_all_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\layout_item_nav_menu.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\layout\\item_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_outline_info_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_outline_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_history_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_history_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_user2.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\user2.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\menu_nav_test.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\menu\\nav_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_c.jpg.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\c.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\layout_item_nav_label.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\layout\\item_nav_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_outline_settings_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_outline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_delete_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_delete_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_star_border_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_star_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_outline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_outline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_snooze_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_snooze_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_outline_drafts_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_outline_drafts_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_outline_send_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_outline_send_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_outline_account_circle_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_outline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_outline_account_circle_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_outline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_mail_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_mail_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_outline_info_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_outline_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_outline_drafts_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_outline_drafts_24.png"
+    },
+    {
+        "merged": "com.artsystem.gmailapplocal.app-merged_res-24:/layout_search_bar.xml.flat",
+        "source": "com.artsystem.gmailapplocal.app-main-26:/layout/search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_androidstudio.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\androidstudio.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_keyboard_voice_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_keyboard_voice_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_c_test.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\c_test.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_star_border_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_star_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_menu_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_menu_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_keyboard_voice_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_keyboard_voice_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_snooze_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_snooze_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_outline_create_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_outline_create_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_star_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_star_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_outline_forum_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_outline_forum_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_snooze_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_snooze_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_outline_account_circle_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_outline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_menu_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_menu_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_delete_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_delete_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_history_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_history_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_outline_settings_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_outline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_menu_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_menu_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_c_letter.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable-mdpi\\c_letter.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_inbox_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_outline_forum_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_outline_forum_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_outline_send_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_outline_send_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_outline_local_offer_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_outline_local_offer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_outline_local_offer_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_outline_local_offer_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_outline_label_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_outline_label_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_outline_label_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_outline_label_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_person_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_person_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_outline_info_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_outline_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_outline_send_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_outline_send_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_star_border_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_star_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_star_border_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_star_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_outline_forum_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_outline_forum_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_delete_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_delete_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_outline_send_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_outline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_outline_forum_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_outline_forum_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_mail_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_mail_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_star_border_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_star_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_delete_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_delete_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_outline_account_circle_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_outline_account_circle_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_all_inbox_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_all_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_outline_settings_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_outline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_mail_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_mail_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_bg_cat_counter.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\bg_cat_counter.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_menu_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_menu_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_outline_forum_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_outline_forum_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_user.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_person_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_person_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_e_test.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\e_test.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_c_letter.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable-xxhdpi\\c_letter.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_outline_label_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_outline_label_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_outline_drafts_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_outline_drafts_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_outline_create_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_outline_create_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_star_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_star_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_star_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_star_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_outline_create_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_outline_create_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_baseline_keyboard_voice_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_keyboard_voice_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\layout_item_mail.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\layout\\item_mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_outline_drafts_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_outline_drafts_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_star_border_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_star_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_history_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_history_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\xml_root_preferences.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_keyboard_voice_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_keyboard_voice_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_keyboard_voice_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_keyboard_voice_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_outline_label_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_outline_label_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_all_inbox_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_all_inbox_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_outline_settings_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_outline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxhdpi_ic_baseline_all_inbox_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxhdpi\\ic_baseline_all_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_ic_outline_label_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_outline_label_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_girl0.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\girl0.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-ldpi_ic_baseline_mail_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-ldpi\\ic_baseline_mail_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_all_inbox_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xhdpi\\ic_baseline_all_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-mdpi_ic_baseline_person_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-mdpi\\ic_baseline_person_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xxxhdpi_c_letter.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable-xxxhdpi\\c_letter.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-anydpi-v21_ic_baseline_snooze_24.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_snooze_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_baseline_mail_outline_24.png.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_baseline_mail_outline_24.png"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\layout_search_bar.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\layout\\search_bar.xml"
+    }
+]
