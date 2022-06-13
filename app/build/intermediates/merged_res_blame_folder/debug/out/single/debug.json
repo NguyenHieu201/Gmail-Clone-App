@@ -36,6 +36,10 @@
         "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-xxxhdpi\\ic_baseline_calendar_today_24.png"
     },
     {
+        "merged": "com.artsystem.gmailapplocal.app-merged_res-24:/layout_item_mail.xml.flat",
+        "source": "com.artsystem.gmailapplocal.app-main-26:/layout/item_mail.xml"
+    },
+    {
         "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_usernoimg0.jpg.flat",
         "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\drawable\\usernoimg0.jpg"
     },
@@ -280,12 +284,12 @@
         "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-anydpi-v21\\ic_baseline_star_24.xml"
     },
     {
-        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\layout_item_simple_search.xml.flat",
-        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\layout\\item_simple_search.xml"
-    },
-    {
         "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\layout_item_simple_search.xml.flat",
+        "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-main-26:\\layout\\item_simple_search.xml"
     },
     {
         "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-xhdpi_ic_baseline_snooze_24.png.flat",
@@ -490,10 +494,6 @@
     {
         "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable-hdpi_ic_outline_drafts_24.png.flat",
         "source": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-pngs-19:\\drawable-hdpi\\ic_outline_drafts_24.png"
-    },
-    {
-        "merged": "com.artsystem.gmailapplocal.app-merged_res-24:/layout_search_bar.xml.flat",
-        "source": "com.artsystem.gmailapplocal.app-main-26:/layout/search_bar.xml"
     },
     {
         "merged": "C:\\Users\\hieun\\.gradle\\daemon\\7.3.3\\com.artsystem.gmailapplocal.app-merged_res-24:\\drawable_androidstudio.png.flat",

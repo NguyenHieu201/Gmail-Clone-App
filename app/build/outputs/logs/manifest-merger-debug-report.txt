@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\hieun\.gradle\caches\transforms-3\efc95f347e1d8c790f6fe4a18fb16039\transformed\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.preference:preference:1.1.1] C:\Users\hieun\.gradle\caches\transforms-3\62c8ae69c95c9ecf28eae07b7b818a7e\transformed\preference-1.1.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\hieun\.gradle\caches\transforms-3\e426ccad298b04ab615d0e24f7468711\transformed\navigation-ui-2.3.1\AndroidManifest.xml:17:1-24:12
@@ -53,25 +53,25 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\hieun\.gradle\caches\transforms-3\bd2b858bc6569916fd0b165974e7ef03\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hieun\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\hieun\.gradle\caches\transforms-3\282c8ecd244afdef0de7b207615be224\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:3:5-42
-		INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
-		INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:2:1-29:12
-		INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:2:1-29:12
-		INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:5:5-27:19
+ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:5:5-27:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\hieun\.gradle\caches\transforms-3\efc95f347e1d8c790f6fe4a18fb16039\transformed\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\hieun\.gradle\caches\transforms-3\efc95f347e1d8c790f6fe4a18fb16039\transformed\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.2.0] C:\Users\hieun\.gradle\caches\transforms-3\67305f0b022f20fd24650d47104caabb\transformed\material-1.2.0\AndroidManifest.xml:22:5-20
@@ -91,51 +91,51 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hi
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] C:\Users\hieun\.gradle\caches\transforms-3\c43534b7153f4696badb6805e7a8569d\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.artsystem.gmailapplocal.searchactivity.SearchActivity
-ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:12:9-19:20
+ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:12:9-19:20
 	android:name
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:12:19-64
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:12:19-64
 intent-filter#action:name:android.intent.action.SEARCH
-ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:13:13-15:29
+ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:13:13-15:29
 action#android.intent.action.SEARCH
-ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:14:17-71
+ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:14:17-71
 	android:name
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:14:25-68
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:14:25-68
 meta-data#android.app.searchable
-ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:16:13-18:54
+ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:16:13-18:54
 	android:resource
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:18:17-51
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:18:17-51
 	android:name
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:17:17-54
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:17:17-54
 activity#com.artsystem.gmailapplocal.MainActivity
-ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:20:9-26:20
+ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:20:9-26:20
 	android:name
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:20:19-47
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:20:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml:24:27-74
 uses-sdk
-INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
-INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
+INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\hieun\.gradle\caches\transforms-3\efc95f347e1d8c790f6fe4a18fb16039\transformed\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\hieun\.gradle\caches\transforms-3\efc95f347e1d8c790f6fe4a18fb16039\transformed\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.preference:preference:1.1.1] C:\Users\hieun\.gradle\caches\transforms-3\62c8ae69c95c9ecf28eae07b7b818a7e\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
@@ -234,16 +234,16 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hieun\.gradle\ca
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hieun\.gradle\caches\transforms-3\f11a2796b54455e05ab8603854e4e469\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\hieun\.gradle\caches\transforms-3\282c8ecd244afdef0de7b207615be224\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\hieun\.gradle\caches\transforms-3\282c8ecd244afdef0de7b207615be224\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
-INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
+INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
-		INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
-		ADDED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
-		INJECTED from E:\GmailAppLocal\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GmailCloneApp\app\src\main\AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\hieun\.gradle\caches\transforms-3\2e73e770eecdd7a4e79d781d107e8586\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
 	android:authorities

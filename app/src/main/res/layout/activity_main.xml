@@ -9,77 +9,63 @@
     tools:openDrawer="start">
 
 
-    <com.google.android.material.navigation.NavigationView
-        android:background="?background_color"
-        android:id="@+id/nav_view"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_gravity="start"
-        android:fitsSystemWindows="true">
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/nav_rv"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
-    </LinearLayout>
-    </com.google.android.material.navigation.NavigationView>
-
-    <androidx.coordinatorlayout.widget.CoordinatorLayout
+    <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".MainActivity"
-        android:background="@color/light_bg">
+        android:background="#CCC">
 
+        <include
+            android:id="@+id/include"
+            layout="@layout/search_bar" />
 
-        <com.google.android.material.appbar.AppBarLayout
-            app:elevation="0dp"
+        <View
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" >
-
-            <androidx.appcompat.widget.Toolbar
-                android:id="@+id/toolbar"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:background="?background_color"
-                app:layout_scrollFlags="scroll|enterAlways">
-
-                <include
-                    layout="@layout/search_bar"
-                    android:layout_width="match_parent" />
-
-            </androidx.appcompat.widget.Toolbar>
-
-        </com.google.android.material.appbar.AppBarLayout>
-
+            android:layout_height="1dp"
+            android:background="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/include" />
 
         <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyle_view_mail"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
             android:background="?background_color"
-            android:id="@+id/rvmail"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
-
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/include" />
 
         <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+            android:id="@+id/extFab100"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="24dp"
+            android:backgroundTint="?fab_bg_color"
             android:text=""
             android:textAllCaps="false"
             android:textColor="?fab_tint_color"
-            android:backgroundTint="?fab_bg_color"
             app:icon="@drawable/ic_outline_create_24"
             app:iconTint="?fab_tint_color"
-            android:id="@+id/extFab100"
-            android:layout_margin="24dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            app:layout_anchorGravity="bottom|end"
-            android:layout_gravity="bottom|right" />
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <!--        <androidx.appcompat.widget.Toolbar-->
+        <!--            android:id="@+id/toolbar"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:background="?background_color"-->
+        <!--            app:layout_anchor="@+id/appBarLayout"-->
+        <!--            app:layout_anchorGravity="center"-->
+        <!--            app:layout_scrollFlags="scroll|enterAlways">-->
+
+        <!--            <include-->
+        <!--                layout="@layout/search_bar"-->
+        <!--                android:layout_width="match_parent"-->
+        <!--                android:layout_height="match_parent" />-->
+
+        <!--        </androidx.appcompat.widget.Toolbar>-->
 
 
-    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
 
 
 

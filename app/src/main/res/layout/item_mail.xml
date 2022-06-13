@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="138dp"
     android:layout_weight="1"
+    android:background="#CCC"
     android:clickable="true"
     android:foreground="?attr/selectableItemBackgroundBorderless">
 
@@ -90,4 +91,10 @@
         app:layout_constraintTop_toBottomOf="@+id/item_mail_date"
         app:srcCompat="@drawable/ic_baseline_star_border_24"
         app:tint="?nav_icon_tint" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

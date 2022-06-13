@@ -1,4 +1,4 @@
-#Mon Jun 13 23:10:51 ICT 2022
-base.0=E\:\\GmailAppLocal\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Tue Jun 14 00:17:04 ICT 2022
+base.0=E\:\\GmailCloneApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
